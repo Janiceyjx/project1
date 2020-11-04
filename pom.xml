@@ -16,7 +16,7 @@
             <version>0.11.0.2</version>
         </dependency>
 
-        <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka 111-->
+        <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka 111222333444-->
         <dependency>
             <groupId>org.apache.kafka</groupId>
             <artifactId>kafka_2.11</artifactId>
